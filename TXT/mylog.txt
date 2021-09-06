@@ -14,3 +14,4 @@ ZCZC W00 100 L02 ZOOM meetings
 ZCZC W00 30 L71 Doing Assignment as a Discrete Mathematics 1 Teaching Assistant
 ZCZC W00 45 L80 Watching anime
 ZCZC W00 30 L32 Watching Youtube (OS Playlist)
+ZCZC W01 5 L05 Quiz Week 1 (6 September 2021)
