@@ -9,11 +9,11 @@ ZCZC W00 10 L10 Assignment #00
 ZCZC W00 15 L11 Assignment #01
 ZCZC W00 10 L12 Assignment #02
 ZCZC W00 15 L13 Assignment #03
+ZCZC W00 10 L14 Assignment #04
 ZCZC W00 60 L73 Farming in Genshin Impact
 ZCZC W00 100 L02 ZOOM meetings
 ZCZC W00 30 L71 Doing Assignment as a Discrete Mathematics 1 Teaching Assistant
 ZCZC W00 45 L80 Watching anime
 ZCZC W00 30 L32 Watching Youtube (OS Playlist)
-ZCZC W00 10 L14 Assignment #04
 ZCZC W00 30 L15 Assignment #05
 ZCZC W01 5 L05 Quiz Week 1 (6 September 2021)
