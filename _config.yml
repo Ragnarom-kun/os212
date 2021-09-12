@@ -21,8 +21,6 @@ navbarlinks:
   link:      "https://ragnarom-kun.github.io/os212/TXT/mylog.txt"
 - navbar:    "About"
   link:      "/ABOUT/"
-- navbar:    "GitHub Page"
-  link:      "https://template.vlsm.org/"
 title:       "Ragnarom-kun || OS212"
 lang:        "en-US"
 author:      "Ragnarom-kun"
