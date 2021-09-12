@@ -20,3 +20,15 @@ ZCZC W01 5 L05 Quiz Week 1 (6 September 2021)
 ZCZC W01 100 L02 OS Zoom Meeting related
 ZCZC W01 30 L11 Assignment #01 : Downloading and Installing VirtualBox, PUTTY and WINSCP
 ZCZC W01 30 L02 OS Zoom Meeting related
+ZCZC W01 10 L11 Assignment #01 : Continue reading about how to export, import, or delete OVA
+ZCZC W01 30 L12 Assignment #02 : Importing pre-installed OVA for Debian and try to run virtualbox debian guest
+ZCZC W01 30 L13 Assignment #03 : GSGS and Read some stuff
+ZCZC W01 30 L14 Assignment #04 : Dressing up my Virtual Guest with GSGS and read the guides
+ZCZC W01 15 L15 Assignment #05 : Setting SSH Keys and Git Cloning with GSGS and read the guides
+ZCZC W01 25 L16 Assignment #06 : Dressing Up my Github Page with templates and change it a little bit
+ZCZC W01 10 L17 Assignment #07 : Updating mylog.txt via debian
+ZCZC W01 20 L18 Assignment #08 : GSGS and read about awk, bash, regex, sed
+ZCZC W01 15 L19 Assignment #09 : GSGS and read the chapters
+ZCZC W01 30 L70 Working on my PBP's essay
+ZCZC W01 60 L80 Watching Anime
+ZCZC W01 30 L73 Playing Genshin Impact
