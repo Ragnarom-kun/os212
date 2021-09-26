@@ -45,3 +45,15 @@ ZCZC W02  10 L19 Updating my links
 ZCZC W02   5 L09 Copying a simple and useful bash script
 ZCZC W02   5 L09 Updating my log
 ZCZC W02  25 L09 Using myscript.sh to make SHA256SUM and SHA256SUM.asc
+ZCZC W03 120 L02 OS Zoom Meeting Related
+ZCZC W03  15 L08 Asking asdos about assignment this week
+ZCZC W03   7 L14 Check my .bash_aliases file
+ZCZC W03  60 L15 Add/create my virtual disk
+ZCZC W03  15 L61 Backup my virtual box
+ZCZC W03  60 L11 Read OSC10 chapter 13 + 14 + 15
+ZCZC W03  60 L12 Trying Demos Week 03 (FUSE)
+ZCZC W03  15 L13 Try previous midterm problems
+ZCZC W03  15 L16 Update my links.md
+ZCZC W03  15 L17 Review my peer links
+ZCZC W03  15 L18 Updating mylog.txt
+ZCZC W03  30 L19 Submitting my week 03 assignment

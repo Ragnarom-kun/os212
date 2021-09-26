@@ -17,3 +17,7 @@ Youtube playlist which has the best explanation of introduction to cyber securit
 
 5. [Learn-C](https://www.learn-c.org/)<br>
 This website is intended for everyone who wishes to learn the C programming language regardless you are an experienced programmer or not. The website provide an exercise for each sub-lessons after the explanation.
+
+6. [Tutorial FUSE pada Linux](https://youtu.be/Utkwg9Mwtsg)<br>
+A tutorial video from how to install FUSE and how to use it. Also this video is explained in Indonesia so I highly recommend this video.
+
