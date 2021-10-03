@@ -57,3 +57,14 @@ ZCZC W03  15 L16 Update my links.md
 ZCZC W03  15 L17 Review my peer links
 ZCZC W03  15 L18 Updating mylog.txt
 ZCZC W03  30 L19 Submitting my week 03 assignment
+ZCZC W04 100 L02 Zoom meeting class
+ZCZC W04   5 L14 Install Package List 2 (TLPI)
+ZCZC W04  10 L15 Fetch and Extract File “WEEK04.tar.bz2.asc”
+ZCZC W04  15 L15 Continuing and finishing my assignment #5
+ZCZC W04  30 L11 Reading OSC10 chapter 9
+ZCZC W04   5 L01 Submitting my weekly github contact in Scele and ssh public key (id_rsa.pub) to the Gform
+ZCZC W04  20 L06 GSGS for updating my links
+ZCZC W04   5 L16 Updating my links.md
+ZCZC W04  10 L17 Review peer links
+ZCZC W04   8 L18 Updating mylog.txt
+ZCZC W04  15 L19 Submitting my week 4 assignments

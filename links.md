@@ -21,3 +21,8 @@ This website is intended for everyone who wishes to learn the C programming lang
 6. [Tutorial FUSE pada Linux](https://youtu.be/Utkwg9Mwtsg)<br>
 A tutorial video from how to install FUSE and how to use it. Also this video is explained in Indonesia so I highly recommend this video.
 
+7. [C - Memory Management](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm)<br>
+This article explains about dynamic memory management in C. This article also gives code example with detailed steps and explanation which can be easily understand.
+
+8. [Arrays & Pointers in C](https://youtube.com/playlist?list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)<br>
+A good playlist for learning C pointer from Neso Academy. By the way, Neso Academy helped me a lot from surviving in PSD course.
