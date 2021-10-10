@@ -26,3 +26,6 @@ This article explains about dynamic memory management in C. This article also gi
 
 8. [Arrays & Pointers in C](https://youtube.com/playlist?list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)<br>
 A good playlist for learning C pointer from Neso Academy. By the way, Neso Academy helped me a lot from surviving in PSD course.
+
+9. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Good explanation from geeksforgreek about what is virtual memory in case of Operating System lecture.
