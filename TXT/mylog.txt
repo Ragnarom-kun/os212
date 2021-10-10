@@ -68,3 +68,15 @@ ZCZC W04   5 L16 Updating my links.md
 ZCZC W04  10 L17 Review peer links
 ZCZC W04   8 L18 Updating mylog.txt
 ZCZC W04  15 L19 Submitting my week 4 assignments
+ZCZC W05 110 L02 Zoom meeting OS Class
+ZCZC W05  10 L14 Lowest memory i can go is 185 mb
+ZCZC W05  10 L14 Fetch and Extract File WEEK05.tar.bz2.asc
+ZCZC W05  15 L14 Modifying and try to compile & run mymemory2.c
+ZCZC W05  20 L14 Running script "000-README.txt." and then copy the result to RESULT/W05 directory
+ZCZC W05  30 L15 GSGS for updating my links.md
+ZCZC W05   7 L16 Writing tips for OS class
+ZCZC W05   5 L17 Review peer links
+ZCZC W05  10 L11 Reading OSC10 chapter 10
+ZCZC W05  20 L12 Trying Demos week05
+ZCZC W05  10 L18 Updating my logs
+ZCZC W05   5 L19 Submit my week 5 assignments

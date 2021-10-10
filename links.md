@@ -28,4 +28,7 @@ This article explains about dynamic memory management in C. This article also gi
 A good playlist for learning C pointer from Neso Academy. By the way, Neso Academy helped me a lot from surviving in PSD course.
 
 9. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
-Good explanation from geeksforgreek about what is virtual memory in case of Operating System lecture.
+Good explanation from geeksforgreek about what is virtual memory in context of Operating System lecture.
+
+10. [What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ)<br>
+This video describes the concept of virtual memory in context of Operating System lecture. Gary, as the host, explains very well about the concept and i think he should get a pay rise for this :D
