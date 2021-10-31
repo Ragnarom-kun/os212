@@ -32,3 +32,9 @@ Good explanation from geeksforgreek about what is virtual memory in context of O
 
 10. [What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ)<br>
 This video describes the concept of virtual memory in context of Operating System lecture. Gary, as the host, explains very well about the concept and i think he should get a pay rise for this :D
+
+11. [fork() and exec() System Calls](https://youtu.be/IFEFVXvjiHY)<br>
+Good explanation about fork and exec function from Neso Academy.
+
+12. [Processes and Threads (Concurrency Basics)](https://youtu.be/Wv7mzX8w3jI)<br>
+A quick video about the differences between processes and threads, and concurrency vs parallelism. This video is recommended for everyone who wants to learn more about the basics of concurrency and multi-threading programming.
