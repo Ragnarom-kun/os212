@@ -38,3 +38,9 @@ Good explanation about fork and exec function from Neso Academy.
 
 12. [Processes and Threads (Concurrency Basics)](https://youtu.be/Wv7mzX8w3jI)<br>
 A quick video about the differences between processes and threads, and concurrency vs parallelism. This video is recommended for everyone who wants to learn more about the basics of concurrency and multi-threading programming.
+
+13. [Operating System #24 Synchronization: Race Conditions, Critical Section, Locks & Unlocks](https://youtu.be/ZQb3DRy0g8U)<br>
+A good video for starting to learn about synchronization, especially race condition.
+
+14. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Good explanation from geeksforgreek about what is deadlock system with some real examples about it.

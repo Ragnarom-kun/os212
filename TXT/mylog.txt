@@ -89,3 +89,13 @@ ZCZC W06  10 L18 Updating mylog.txt
 ZCZC W06  10 L19 Submit assignment week 06
 ZCZC W06  60 L11 Reading OSC10 chapter 3 & 4
 ZCZC W06  30 L12 Trying Demos week 06
+ZCZC W07 100 L02 Weekly OS Lecture in Zoom
+ZCZC W07  75 L14 Assignment Week 07 (Synchronization and Shared Memory)
+ZCZC W07  60 L11 Reading OSC10 chapter 6, 7, & 8
+ZCZC W07  35 L12 Trying Demos week 07
+ZCZC W07  30 L13 Trying Previous MidTem Problems	
+ZCZC W07  45 L06 GSGS about synchronization and shared memory
+ZCZC W07   5 L15 Updating links.md
+ZCZC W07  20 L17 Review peer links
+ZCZC W07  15 L18 Updating mylog.txt
+ZCZC W07  10 L19 Submitting my week 07 Assignment
