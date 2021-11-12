@@ -44,3 +44,9 @@ A good video for starting to learn about synchronization, especially race condit
 
 14. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 Good explanation from geeksforgreek about what is deadlock system with some real examples about it.
+
+15. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+The official guidance to make the latest version of Linux From Scratch (Published September 1st, 2021, when this link resource is written). Actually it's similar like usual OS guide from https://osp4diss.vlsm.org/ .
+
+16. [LFS Book Chapter 5: Compiling a Cross-Toolchain](https://youtu.be/xVKFOJQOFWE)<br>
+This video explains very well about how to compile a Cross-Toolchain for LFS. 
