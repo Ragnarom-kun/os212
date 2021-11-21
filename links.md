@@ -50,3 +50,9 @@ The official guidance to make the latest version of Linux From Scratch (Publishe
 
 16. [LFS Book Chapter 5: Compiling a Cross-Toolchain](https://youtu.be/xVKFOJQOFWE)<br>
 This video explains very well about how to compile a Cross-Toolchain for LFS. 
+
+17. [Mengenal Komponen Server: Tipe RAID dan Tingkatannya](https://mebiso.com/mengenal-komponen-server-tipe-raid-dan-tingkatannya/)<br>
+A good article about introduction to RAID, and it is written in Indonesia.
+
+18. [What is a RAID Array, RAID 0, 1, 5, 10. Advantages and Disadvantages of RAID 0. 1. 5 10](https://youtu.be/MZfRxjEGRj4)<br>
+A good explanation video about RAID and it is an animation video. It has an extensive information about RAID 0, 1, 5, and 10. 
