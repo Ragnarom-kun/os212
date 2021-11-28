@@ -119,3 +119,11 @@ ZCZC W09  20 L17 Review peer links
 ZCZC W09  15 L18 Updating mylog.txt
 ZCZC W09  10 L19 Submitting my week 09 Assignment
 ZCZC W09  30 L12 Trying Demos Week 09
+ZCZC W10 105 L02 Weekly OS Lecture in Zoom
+ZCZC W10  30 L12 Trying Demos Week 10
+ZCZC W10  15 L11 Read OSC10 Chapter 12
+ZCZC W10  10 L13 Try Previous Problem
+ZCZC W10   5 L15 Updating links.md
+ZCZC W10   5 L17 Review peer links
+ZCZC W10  10 L18 Updating mylog.txt
+ZCZC W10   5 L19 Submitting my week 10 Assignment

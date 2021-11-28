@@ -56,3 +56,6 @@ A good article about introduction to RAID, and it is written in Indonesia.
 
 18. [What is a RAID Array, RAID 0, 1, 5, 10. Advantages and Disadvantages of RAID 0. 1. 5 10](https://youtu.be/MZfRxjEGRj4)<br>
 A good explanation video about RAID and it is an animation video. It has an extensive information about RAID 0, 1, 5, and 10. 
+
+19. [I/O System](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)<br>
+Simple "course note" about the concepts of I/O systems in operating system.
